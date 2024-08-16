@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/playwallwheel/static/css/main.3a107c32.css",
+    "main.js": "/playwallwheel/static/js/main.84c8ab67.js",
+    "static/js/453.e6dd296d.chunk.js": "/playwallwheel/static/js/453.e6dd296d.chunk.js",
+    "index.html": "/playwallwheel/index.html",
+    "main.3a107c32.css.map": "/playwallwheel/static/css/main.3a107c32.css.map",
+    "main.84c8ab67.js.map": "/playwallwheel/static/js/main.84c8ab67.js.map",
+    "453.e6dd296d.chunk.js.map": "/playwallwheel/static/js/453.e6dd296d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a107c32.css",
+    "static/js/main.84c8ab67.js"
+  ]
+}
